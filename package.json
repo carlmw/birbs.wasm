@@ -1,0 +1,15 @@
+{
+  "name": "birbs",
+  "collaborators": [
+    "Carl Whittaker <carl359@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "birbs_bg.wasm",
+    "birbs.js",
+    "birbs.d.ts"
+  ],
+  "module": "birbs.js",
+  "types": "birbs.d.ts",
+  "sideEffects": "false"
+}
